@@ -11,5 +11,6 @@
 
 ---------------------
 
+###  <i>Pleas feel free to explore our repositories for interesting stuffs to learn </i>.
 
 <img width="440px" align="left" alt="neuaiskunkworks Github Stats" src="https://github-readme-stats.vercel.app/api?username=neuaiskunkworks&show_icons=true&hide_border=true" />
