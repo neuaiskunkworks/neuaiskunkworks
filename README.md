@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**neuaiskunkworks/neuaiskunkworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="head" width="500px" src="https://user-images.githubusercontent.com/67298046/90579796-13653d00-e195-11ea-9aca-63355eeed649.png" /> 
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
