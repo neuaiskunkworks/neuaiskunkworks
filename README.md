@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 We are currently working on Researck topic given under our [Repo](https://github.com/neuaiskunkworks/Research-2020)
 - 👯 We have collaborated with Boston [Children Hostpital(BMS)](https://www.bumc.bu.edu/busm/) and [Harvard Medical School(HMS)](https://hms.harvard.edu/) for the SKunks to work over the Project
 - 📫 Feel free to reachout to us - aiskunkworks@northeastern.edu
-- <img align="left" alt="azure" width="20px" src="https://user-images.githubusercontent.com/67298046/90580613-4c061600-e197-11ea-8768-36cd391a6665.png"/>If you are a current Husky Student, feel free to register yourself here - [NEU Engage](https://neu.campuslabs.com/engage/organization/tentative-ai-skunkworks-at-northeastern)
+- <img alt="NEU" width="20px" src="https://user-images.githubusercontent.com/67298046/90580613-4c061600-e197-11ea-8768-36cd391a6665.png"/> If you are a current Husky Student, feel free to register yourself here - [NEU Engage](https://neu.campuslabs.com/engage/organization/tentative-ai-skunkworks-at-northeastern)
 
 ---------------------
 
