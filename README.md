@@ -5,7 +5,8 @@
 --------------------
 
 - 🔭 We are currently working on Researck topic given under our [Repo](https://github.com/neuaiskunkworks/Research-2020)
-- 👯 We have collaborated with Boston [Children Hostpital(BMS)](https://www.bumc.bu.edu/busm/) and [Harvard Medical School(HMS)](https://hms.harvard.edu/) for the SKunks to work over the Project
+- 👯 We have collaborated with [Boston Children Hostpital(BMS)](https://www.bumc.bu.edu/busm/) and [Harvard Medical School(HMS)](https://hms.harvard.edu/) for the Skunks to work over the [Project](https://github.com/NEU-AI-Skunkworks/BCH-and-Harvard-Medical-School-Project)
+- 💻 We are working on various Research topics. If you are interested to study and explore those topics, kindly checkout the repo [Research2020](https://github.com/neuaiskunkworks/Research-2020)
 - 📫 Feel free to reachout to us - aiskunkworks@northeastern.edu
 - <img alt="NEU" width="20px" src="https://user-images.githubusercontent.com/67298046/90580613-4c061600-e197-11ea-8768-36cd391a6665.png"/> If you are a current Husky Student, feel free to register yourself here - [NEU Engage](https://neu.campuslabs.com/engage/organization/tentative-ai-skunkworks-at-northeastern)
 
