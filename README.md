@@ -12,6 +12,24 @@
 
 ---------------------
 
+### Connect with Us:
+
+[<img align="left" alt="prabhuSub | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="prabhuSub | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="prabhuSub | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="prabhuSub | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][instagram]
+
+<br />
+
+--------------------------------------------------------------------------------------
+
 ###  <i>Pleas feel free to explore our repositories for interesting stuffs to learn </i>.
 
 <img width="440px" align="left" alt="neuaiskunkworks Github Stats" src="https://github-readme-stats.vercel.app/api?username=neuaiskunkworks&show_icons=true&hide_border=true" />
+
+
+
+[twitter]: https://twitter.com/skunkworksneu
+[instagram]: https://www.instagram.com/aiskunkworks/
+[linkedin]: https://www.linkedin.com/company/skunkworksneu
+[facebook]: https://www.facebook.com/AI-Skunkworks-at-Northeastern-University-106569391111012/?view_public_for=106569391111012&ref=page_internal
