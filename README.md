@@ -12,6 +12,7 @@
 ---------------------
 ### Current Officers:
 
+- __Faculty Advisor__ - Nik Bear Brown : <nikbearbrown@gmail.com>
 - __President__ - Kartik Kumar : <kumar.kar@northeastern.edu>
 - __VP of Research & Development__ - Abhishek Dabas : <dabas.a@northeastern.edu>
 - __VP of Marketing Outreach__ - Bhagyashri Gundal : <gundal.b@northeastern.edu>
