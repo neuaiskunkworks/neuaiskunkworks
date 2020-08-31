@@ -3,9 +3,10 @@
 <img align="right" alt="head" width="400px" src="https://user-images.githubusercontent.com/67298046/90579796-13653d00-e195-11ea-9aca-63355eeed649.png" /> 
 
 --------------------
+AI Skunkworks at Northeastern University is a research group dedicated towards advancing technological innovation through Artificial Intelligence. Our mission is to inspire research work amongst students through on campus conferences, events and industrial activities.
 
 - 💻 We are working on various Research topics. If you are interested to study and explore those topics, kindly checkout the repo [Research2020](https://github.com/neuaiskunkworks/Research-2020)
-- 👯 We have collaborated with [Boston Children Hostpital(BCH)](https://www.bumc.bu.edu/busm/) and [Harvard Medical School(HMS)](https://hms.harvard.edu/) for the Skunks to work over the [Project](https://github.com/NEU-AI-Skunkworks/BCH-and-Harvard-Medical-School-Project)
+- 👯 We have collaborated with [Boston Children Hospital (BCH)](https://www.bumc.bu.edu/busm/) and [Harvard Medical School (HMS)](https://hms.harvard.edu/) for the Skunks to work over the [Project](https://github.com/NEU-AI-Skunkworks/BCH-and-Harvard-Medical-School-Project)
 - 📫 Feel free to reachout to us - aiskunkworks@northeastern.edu
 - <img alt="NEU" width="20px" src="https://user-images.githubusercontent.com/67298046/90580613-4c061600-e197-11ea-8768-36cd391a6665.png"/> If you are a current Husky Student, feel free to register yourself here - [NEU Engage](https://neu.campuslabs.com/engage/organization/ai-skunkworks-at-northeastern)
 - #### <i>For registering yourself and expressing your interest for any of the Research/Project currently being performed under the club, kindly fill the [FORM](https://forms.office.com/Pages/ResponsePage.aspx?id=gcLuqKOqrk2sm5o5i5IV52PXxpsXCd9MoG8dFRYB16pUNkVMNElFU0k2UFdTOVZWR0NRUFdGQkM0TC4u) (Only available for Northeastern University Students from any decipline)</i>
