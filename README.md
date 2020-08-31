@@ -3,8 +3,6 @@
 <img align="right" alt="head" width="400px" src="https://user-images.githubusercontent.com/67298046/90579796-13653d00-e195-11ea-9aca-63355eeed649.png" /> 
 
 --------------------
-AI Skunkworks at Northeastern University is a research group dedicated towards advancing technological innovation through Artificial Intelligence. Our mission is to inspire research work amongst students through on campus conferences, events and industrial activities.
-
 - 💻 We are working on various Research topics. If you are interested to study and explore those topics, kindly checkout the repo [Research2020](https://github.com/neuaiskunkworks/Research-2020)
 - 👯 We have collaborated with [Boston Children Hospital (BCH)](https://www.bumc.bu.edu/busm/) and [Harvard Medical School (HMS)](https://hms.harvard.edu/) for the Skunks to work over the [Project](https://github.com/NEU-AI-Skunkworks/BCH-and-Harvard-Medical-School-Project)
 - 📫 Feel free to reachout to us - aiskunkworks@northeastern.edu
