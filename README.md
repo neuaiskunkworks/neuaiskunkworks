@@ -16,7 +16,7 @@
 - __President__ - Kartik Kumar : <kumar.kar@northeastern.edu>
 - __VP of Research & Development__ - Abhishek Dabas : <dabas.a@northeastern.edu>
 - __VP of Marketing Outreach__ - Bhagyashri Gundal : <gundal.b@northeastern.edu>
-- __VP of Research Operations__	 - Abhi Maheshwarappa : <maheshwarappa.a@northeastern.edu>
+- __VP of Research Operations__	 - Abhishek Maheshwarappa : <maheshwarappa.a@northeastern.edu>
 - __VP of Research Technologies__	- Jugal Joshi : <joshi.ju@northeastern.edu>
 - __Treasurer__	- Shruti Patil : <patil.shru@northeastern.edu>
 - __Volunteers__ - Reema Yadav <yadav.ree@northeastern.edu>, Prashanthi Matham <matam.p@northeastern.edu>
