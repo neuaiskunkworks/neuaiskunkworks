@@ -30,7 +30,7 @@
 [<img align="left" alt="prabhuSub | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="prabhuSub | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="prabhuSub | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/youtube.svg" />][youtube]
-[<img align="left" alt="prabhuSub | MicrosoftTeams" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/microsoftteams.svg" />][microsoftteams]
+[<img align="left" alt="prabhuSub | microsoftteams" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/microsoftteams.svg" />][microsoftteams]
 
 <br />
 
