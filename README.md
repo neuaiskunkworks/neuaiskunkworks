@@ -16,13 +16,13 @@
 ### Current Officers:
 
 - __Faculty Advisor__ - Nik Bear Brown : <nikbearbrown@gmail.com>
-- __President__ - Kartik Kumar : <kumar.kar@northeastern.edu>
+- __President__ - Abhishek Dabas : <dabas.a@northeastern.edu>
 - __VP of Research & Development__ - Abhishek Dabas : <dabas.a@northeastern.edu>
 - __VP of Marketing Outreach__ - Abhishek Dabas : <dabas.a@northeastern.edu>
 - __VP of Research Operations__	 - Abhishek Maheshwarappa : <maheshwarappa.a@northeastern.edu>
 - __VP of Research Technologies__	- Jugal Joshi : <joshi.ju@northeastern.edu>
 - __Treasurer__	- Shruti Patil : <patil.shru@northeastern.edu>
-- __Volunteers__ - Reema Yadav <yadav.ree@northeastern.edu>, Prashanthi Matham <matam.p@northeastern.edu>
+- __Volunteers__ - Prashanthi Matham <matam.p@northeastern.edu>
 
 ----------------------
 
@@ -34,6 +34,7 @@
 [<img align="left" alt="prabhuSub | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="prabhuSub | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/youtube.svg" />][youtube]
 [<img align="left" alt="prabhuSub | MSTeams" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/microsoftteams.svg" />][microsoftteams]
+
 
 <br />
 
