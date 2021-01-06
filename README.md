@@ -9,15 +9,15 @@
 
 - <img alt="NEU" width="20px" src="https://user-images.githubusercontent.com/67298046/90580613-4c061600-e197-11ea-8768-36cd391a6665.png"/> If you are a current Husky Student, feel free to register yourself here - [NEU Engage](https://neu.campuslabs.com/engage/organization/ai-skunkworks-at-northeastern)
 
-- ### Join our E-board:###
+- #### Join our E-board:
 If you’re interested in joining and contributing to AI Skunkworks as an E-Board member, then fill-up this [FORM](https://bit.ly/39cvj4v)
 
 
-- ### Research Coordinators:###
+- #### Research Coordinators:
 If you’re interested in contributing towards the Research Groups as Coordinator, then fill-up this [FORM](https://bit.ly/3rRyrLy)
 
 
-- ### Joining any Research Group:###
+- #### Joining any Research Group:
 If you’re interested in any Research Groups, then fill-up this [FORM](https://bit.ly/3hGfjLz)
 
 
