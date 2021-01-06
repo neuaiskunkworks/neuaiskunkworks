@@ -46,7 +46,7 @@ If you’re interested in any Research Groups, then fill-up this [FORM](https://
 [<img align="left" alt="prabhuSub | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="prabhuSub | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/youtube.svg" />][youtube]
 [<img align="left" alt="prabhuSub | MSTeams" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/microsoftteams.svg" />][microsoftteams]
-[<img align="left" alt="prabhuSub | Website" width="22px" src="https://avatars1.githubusercontent.com/u/67298046?s=460&u=ae200a1e118eb158961bf722dab9ff6b2793218e&v=4" />][Website]
+[<img align="left" alt="prabhuSub | Website" width="22px" src="https://giving.northeastern.edu/live/image/gid/2/width/570/1972_Ai_Skunkworks.rev.1583425188.jpg" />][Website]
 
 
 <br />
