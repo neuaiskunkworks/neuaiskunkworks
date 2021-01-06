@@ -9,6 +9,18 @@
 
 - <img alt="NEU" width="20px" src="https://user-images.githubusercontent.com/67298046/90580613-4c061600-e197-11ea-8768-36cd391a6665.png"/> If you are a current Husky Student, feel free to register yourself here - [NEU Engage](https://neu.campuslabs.com/engage/organization/ai-skunkworks-at-northeastern)
 
+- ### Join our E-board:###
+If you’re interested in joining and contributing to AI Skunkworks as an E-Board member, then fill-up this [FORM](https://bit.ly/39cvj4v)
+
+
+- ### Research Coordinators:###
+If you’re interested in contributing towards the Research Groups as Coordinator, then fill-up this [FORM](https://bit.ly/3rRyrLy)
+
+
+- ### Joining any Research Group:###
+If you’re interested in any Research Groups, then fill-up this [FORM](https://bit.ly/3hGfjLz)
+
+
 - #### <i>RedHat is collaborating with AI Skunkworks to find the next Undergraduate RedHat Student ambassador. If you are an undergrad student at NEU and feel confident of taking up this role, kindly fill this [FORM](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.office.com%2FPages%2FResponsePage.aspx%3Fid%3DgcLuqKOqrk2sm5o5i5IV52PXxpsXCd9MoG8dFRYB16pUOVhKNk5TQTE5MlUwWEs2M1VON0xKMTBPOC4u&data=04%7C01%7Cpatil.shru%40northeastern.edu%7Ca9387208bbf54f43c82308d8713fbf01%7Ca8eec281aaa34daeac9b9a398b9215e7%7C0%7C0%7C637383865908815712%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=ePXH7Elq9HUsFz%2FVavR6avPJ8IOJ50Gi3kI8CiUf2x0%3D&reserved=0). Qualified applicants will be treated on a first-come first-serve basis.
 
 
