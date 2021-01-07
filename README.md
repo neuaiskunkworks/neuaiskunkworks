@@ -20,7 +20,8 @@ If you’re interested in contributing towards the Research Groups as Coordinato
 - #### Joining any Research Group:
 If you’re interested in any Research Groups, then fill-up this [FORM](https://bit.ly/3hGfjLz)
 
-- We are fundraising to purchase a dedicated compute node for our club and we could really use your help!!
+- #### Crowdfunding Campaign:
+We are fundraising to purchase a dedicated compute node for our club and we could really use your help!!
 Make a donation here: https://www.northeastern.edu/huskystarter/project/ai-skunkworks/
 
 
