@@ -37,10 +37,10 @@ If you’re interested in any Research Groups, then fill-up this [FORM](https://
 
 - __Faculty Advisor__ - Nik Bear Brown : <nikbearbrown@gmail.com>
 - __President__ - Abhishek Dabas : <dabas.a@northeastern.edu>
-- __VP of Research & Development__ - Abhishek Dabas : <dabas.a@northeastern.edu>
+- __VP of Research & Development__ - Indupriya Kompi Sadasivappa : <kompisadasivappa.i@northeastern.edu>
 - __VP of Marketing Outreach__ - Abhishek Dabas : <dabas.a@northeastern.edu>
 - __VP of Research Operations__	 - Abhishek Maheshwarappa : <maheshwarappa.a@northeastern.edu>
-- __VP of Research Technologies__	- Jugal Joshi : <joshi.ju@northeastern.edu>
+- __VP of Research Technologies__	- Shruti Patil : <patil.shru@northeastern.edu>
 - __Treasurer__	- Shruti Patil : <patil.shru@northeastern.edu>
 - __Volunteers__ - Prashanthi Matham <matam.p@northeastern.edu>
 
